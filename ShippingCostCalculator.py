@@ -1,4 +1,6 @@
 # Shipping Cost Calculator
+# here is a new line by benndunn
+# Hello, This is the '80s calling. We want our sequential prompted data entry UI back.
 
 ## Input package weight and shipping rate
 weight = float(input("Enter the package weight in kilograms: "))
